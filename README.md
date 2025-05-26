@@ -84,6 +84,6 @@ Powered by the official [Hacker News Firebase API](https://github.com/HackerNews
 
 ## 📱 Screenshots
 ![Home Page](assets/screens/home.png)
-![Inspection Page](assets/screens/inspect.png)
+![User Detail Page](assets/screens/user.png)
 
 
